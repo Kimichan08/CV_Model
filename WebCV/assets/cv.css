@@ -1,0 +1,32 @@
+body {
+    padding: 50px 200px;
+}
+.avatar_div .avatar {
+    width: 450px;
+    max-width: 100px;
+    border-radius: 50%;
+}
+.avatar_div {
+    text-align: center;
+}
+
+.cv_div_row_text{
+    text-align: right !important;
+    font-weight: bold !important;
+}
+
+.cv_div_dot{
+    border-bottom: 5px solid #111 !important;
+}
+
+.text-form{
+    color: rgb(50 161 181);
+}
+
+.skill-rate{
+    background-color: #cecece;
+    height: 12px;
+    align-items: flex-end;
+    display: flex;
+    cursor: pointer;
+}
